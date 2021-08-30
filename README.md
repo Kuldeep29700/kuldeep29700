@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kuldeep-kumawat-8626261a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep-kumawat-8626261a0" height="30" width="40" /></a>
 <a href="https://instagram.com/kuldeepkumawat29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuldeepkumawat29" height="30" width="40" /></a>
 <a href="https://discord.gg/#9078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9078" height="30" width="40" /></a>
 </p>
@@ -19,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep29700&show_icons=true&locale=en" alt="kuldeep29700" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep29700&" alt="kuldeep29700" /></p>
-
