@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep29700&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep29700" /> </p>
 
-- 🌱 I’m currently learning **Node.js & Express.js**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **kuldeepkumawat29700@gmail.com**
 
